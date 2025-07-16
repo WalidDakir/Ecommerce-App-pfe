@@ -1,5 +1,5 @@
 # Ecommerce-web-app
-A fully Ecommerce website with authentication, An homepage a customer login form, Admin page.
+A fully Ecommerce website with authentication, a homepage, a customer login form and an admin page.
 ## Built With 🔨
 
 - HTML5
